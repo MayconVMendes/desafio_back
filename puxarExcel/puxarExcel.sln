@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "puxarExcel", "puxarExcel\puxarExcel.csproj", "{DF8A3971-4AE4-4A44-9064-99F41753213E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF8A3971-4AE4-4A44-9064-99F41753213E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF8A3971-4AE4-4A44-9064-99F41753213E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF8A3971-4AE4-4A44-9064-99F41753213E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF8A3971-4AE4-4A44-9064-99F41753213E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B57AE32-5733-4B0A-8252-73A43EB4F32F}
+	EndGlobalSection
+EndGlobal
